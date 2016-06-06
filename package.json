@@ -1,15 +1,27 @@
 {
   "name": "@lennd/cando",
   "version": "1.0.0",
-  "description": "",
+  "description": "Permission library",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lennd/cando.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lennd/cando/issues"
+  },
+  "homepage": "https://github.com/lennd/cando#readme"
 }
